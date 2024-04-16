@@ -1,0 +1,24 @@
+h1 {
+    text-align: left;
+}
+
+.blog-article-list {
+    text-align: left;
+    padding: 0;
+    list-style-type: none;
+}
+.blog-article {
+    border: grey solid 3px;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 10px;
+}
+.blog-article1 {
+    background-color: blue;
+}
+.blog-article2 {
+    background-color: red;
+}
+.blog-article3 {
+    background-color: green;
+}
